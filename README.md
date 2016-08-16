@@ -1,0 +1,2 @@
+# cobacoba
+latihan go template
